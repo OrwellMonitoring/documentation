@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkorwell_docs=self.webpackChunkorwell_docs||[]).push([[4401],{7206:function(o){o.exports=JSON.parse('{"allTagsPath":"/documentation/blog/tags","name":"hola","count":1,"permalink":"/documentation/blog/tags/hola"}')}}]);

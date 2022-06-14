@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkorwell_docs=self.webpackChunkorwell_docs||[]).push([[8824],{6218:function(s){s.exports=JSON.parse('{"allTagsPath":"/documentation/blog/tags","name":"docusaurus","count":4,"permalink":"/documentation/blog/tags/docusaurus"}')}}]);
